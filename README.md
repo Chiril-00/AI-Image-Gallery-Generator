@@ -1,4 +1,4 @@
-# AI-Image-Generator
+# AI-Image-Gallery-(Generator[s])
  
 4.11.22 - Begining of  html skeleton creation
 
